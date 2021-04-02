@@ -1,0 +1,62 @@
+.hands {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+
+#paper_btn:hover , #rock_btn:hover, #scissors_btn:hover {
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+body {
+    background-color: rgb(129, 126, 126);
+}
+
+
+#handsBox {
+    text-align: center;
+}
+
+#scoreboard {
+    color: #00FF41;
+    font-family: Monaco;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+#result {
+    color: #00FF41;
+    font-family: Monaco;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    padding-top: 40px;
+}
+
+
+h1 {
+    color: #00FF41;
+    text-align: center;
+    font-family: Monaco;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+h2 {
+    color: #00FF41;
+    text-align: center;
+    font-family: Monaco;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+#compMove {
+    transform: rotate(25deg);
+    color: white;
+    font-family: Monaco;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    font-size: 45px;
+    margin-left: 65%;
+}
