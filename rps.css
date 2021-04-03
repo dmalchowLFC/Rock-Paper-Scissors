@@ -17,6 +17,7 @@ body {
 
 #handsBox {
     text-align: center;
+    padding-top: 50px;
 }
 
 #scoreboard {
@@ -53,10 +54,10 @@ h2 {
 }
 
 #compMove {
-    transform: rotate(25deg);
     color: white;
     font-family: Monaco;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
     font-size: 45px;
-    margin-left: 65%;
+    text-align: center;
+    padding-top: 100px;
 }
