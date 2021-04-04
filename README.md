@@ -12,4 +12,4 @@ Try game [here](https://dmalchowlfc.github.io/Rock-Paper-Scissors/)
 This is my third application through the Mastermind Program. I'm learning more HTML, CSS, JS with every project and continuing to add more little functionalities as I progress.
 
 ## Author
-David Malchow 
+David Malchow - [LinkedIn](https://www.linkedin.com/in/david-malchow-809b106b/)
